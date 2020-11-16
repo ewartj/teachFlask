@@ -1,0 +1,3 @@
+- Simplest flask app: just 1 route (a URL)
+- just takes a string I've made and displays on a webpage
+- everything is in 1 file
